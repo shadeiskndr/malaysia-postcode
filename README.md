@@ -143,13 +143,3 @@ This generates:
 | postcodes_data.sql                  | Postcode data (SQL insert statements)                |
 
 ---
-
-## Project Structure
-
-All scripts and data files are in the project root. For larger projects, consider organizing into `scripts/`, `data/`, and `db/` folders.
-
----
-
-## License
-
-MIT License (or specify your license here)
