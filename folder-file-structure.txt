@@ -1,0 +1,16 @@
+malaysia-postcode
+├── create_insert_state_table.py
+├── export_distinct_postcode_to_csv.py
+├── export_distinct_postcode_to_json.py
+├── export_distinct_postcode_to_sqlite.py
+├── folder-file-structure.txt
+├── import_postcode_sql_to_sqlite.py
+├── Malaysia_Postcode.sql
+├── malaysia_postcode.sqlite
+├── malaysia_postcode_distinct.csv
+├── malaysia_postcode_distinct.json
+├── malaysia_postcode_distinct.sqlite
+├── README.md
+├── states.csv
+├── states.json
+└── states.sqlite
