@@ -1,0 +1,25 @@
+# Ignore generated data, but not source data
+*.sqlite
+malaysia_postcode_distinct.csv
+malaysia_postcode_distinct.json
+postcodes_data.sql
+states_data.sql
+
+# Keep source data
+!Malaysia_Postcode.sql
+!states.csv
+!states.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
