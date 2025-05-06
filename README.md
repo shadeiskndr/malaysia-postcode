@@ -1,13 +1,13 @@
-# Malaysia Postcode & State SQLite Database
+# Malaysia Postcode & State Data
 
-This project provides a SQLite database containing Malaysian postcode and state data, extracted from the original SQL source file `Malaysia_Postcode.sql`.
+This project provides a CSV, JSON and SQLite database containing Malaysian postcode and state data, extracted from the original SQL source file `Malaysia_Postcode.sql`.
 
 ## Features
 
 - **Postcode Table**: Contains Malaysian postcode data, including area names, post office/city, and state codes.
 - **State Table**: Contains state codes and full state names for all Malaysian states and federal territories.
 - **Python Import Scripts**: Utilities to parse the original SQL and populate a SQLite database with clean, deduplicated data.
-- **Export Utilities**: Scripts to export the distinct postcode data to CSV or JSON for easy integration with external databases.
+- **Export Utilities**: Scripts to export the distinct postcode data to CSV, JSON and SQLite for easy integration with external databases.
 
 ## Database Schema
 
